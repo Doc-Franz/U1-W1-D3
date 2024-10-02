@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+  background-color: transparent;
+}
+
+#thanksgiving {
+  color: darkslategrey;
+  background-color: rgb(219, 208, 184);
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-top-color: orange;
+  height: 50px;
+}
+
+.focaccia {
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(190, 190, 190);
+}
+
+.featured {
+  color: orangered;
+  border-left-style: solid;
+  border-left-width: 3px;
+  border-left-color: orange;
+  margin-left: 26%;
+  text-align: left;
+  padding-left: 10px;
+}
+
+#space {
+  margin-bottom: 0%;
+}
+
+.preparation {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: grey;
+  padding-bottom: 20px;
+  text-align: left;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.part {
+  text-align: left;
+  margin-left: 25%;
+}
+
+.method {
+  text-align: left;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+ul {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: left;
+}
